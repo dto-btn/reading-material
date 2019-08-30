@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown aria-label="Slide 1">
+					<textarea data-template>
+						# Pat Heard
+						Technical advisor, new to SSC
+					</textarea>
+                </section>
+				<section data-markdown aria-label="Slide 2">					
+					<script type="text/template">
+					<!-- .slide: data-background="url(img/80s.jpg) no-repeat center/cover" -->
+					# Grew up in the 80's
+					</script>
+                </section>
+				<section data-markdown aria-label="Slide 3">
+					<script type="text/template">
+					<!-- .slide: data-background="url(img/kids.jpg) no-repeat center/cover" -->
+					# 3 kids
+					</script>
+				</section> 
+				<section data-markdown aria-label="Slide 4">
+					<script type="text/template">
+					<!-- .slide: data-background="url(img/tent.jpg) no-repeat center/cover" -->
+					# ❤ camping
+					</script>
+				</section>
+				<section data-markdown aria-label="Slide 5">
+					<textarea data-template>
+						# What is it you *do exactly*?
+					</textarea>
+				</section>
+				<section data-markdown aria-label="Slide 6">
+					<textarea data-template>
+						# Design
+						User experience, web, mobile, graphic and presentation design are all things I happily get up to.  
+					</textarea>
+				</section>
+				<section data-markdown aria-label="Slide 7">
+					<textarea data-template>
+						# Code
+						I started on the front-end and worked my way back. Lately I find myself writing *a lot* of JavaScript.
+					</textarea>
+				</section>
+				<section data-markdown aria-label="Slide 8">
+					<textarea data-template>
+						# DevOps
+						Helps me automate *all the things*.
+						
+						I'm especially fond of pipelines, everything-as-code and [automated testing](https://github.com/patheard/cucumber-puppeteer).
+					</textarea>
+				</section>				
+				<section data-markdown aria-label="Slide 1">
+					<textarea data-template>
+						# Say hi!
+						- **GitHub** [patheard](https://github.com/patheard)
+						- **Slack** [SSC-SPC/Pat Heard](https://ssc-spc.slack.ca)					
+						- **Email** [patrick.heard@canada.ca](mailto:patrick.heard@canada.ca)
+						- **In person** [360 Lisgar, 8th floor](https://goo.gl/maps/b7XFnozFgP6be9xu6)
+						
+					</textarea>
+				</section>																									               
+			</div>
+        </div>
+
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				hash: true,
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
