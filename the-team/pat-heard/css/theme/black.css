@@ -47,14 +47,14 @@ body {
   margin: 0 0 20px 0;
   color: #fff;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.2;
   letter-spacing: normal;
   text-shadow: 0px 0px 100px rgba(0, 0, 0, 0.7);
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 2.5em; }
+  font-size: 2em; }
 
 .reveal h2 {
   font-size: 1.6em; }
@@ -205,14 +205,18 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #42affa;
+  color: #fff;
+  background-color: rgba(83, 29, 163, .3);
+  display: inline-block;
+  padding: .1em .2em;
+  border-radius: 10px;
   text-decoration: none;
-  -webkit-transition: color .15s ease;
-  -moz-transition: color .15s ease;
-  transition: color .15s ease; }
+  -webkit-transition: background-color .15s ease;
+  -moz-transition: background-color .15s ease;
+  transition: background-color .15s ease; }
 
 .reveal a:hover {
-  color: #8dcffc;
+  background-color: rgba(83, 29, 163, .6);
   text-shadow: none;
   border: none; }
 
@@ -231,7 +235,13 @@ body {
 
 .reveal section img.plain {
   border: 0;
+  background: 0;
   box-shadow: none; }
+
+.reveal section img.round {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%; }  
 
 .reveal a img {
   -webkit-transition: all .15s linear;
@@ -253,7 +263,6 @@ body {
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
-  background: rgba(0, 0, 0, 0.2);
   color: #42affa; }
 
 .reveal .progress span {
