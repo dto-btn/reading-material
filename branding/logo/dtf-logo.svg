@@ -89,11 +89,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1526.196"
-     inkscape:cy="3227.9102"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="994.04323"
+     inkscape:cy="3520.3444"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1056"
+     inkscape:current-layer="g1021"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -138,7 +138,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -300,13 +300,13 @@
          d="m 103.5052,466.71534 a 38.656408,38.656408 0 0 0 38.65653,-38.6564 38.656408,38.656408 0 0 0 -38.65651,-38.65625 38.656408,38.656408 0 0 0 -38.656309,38.65625 38.656408,38.656408 0 0 0 38.656289,38.6564 z"
          id="path947"
          inkscape:connector-curvature="0"
-         inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v1c.png"
+         inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <g
          id="g989"
          transform="translate(-1.5928724,-600.03484)"
-         inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v1c.png"
+         inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96">
         <path
@@ -450,7 +450,7 @@
       <g
          transform="translate(-1.5928724,-793.42525)"
          id="g1019"
-         inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v1c.png"
+         inkscape:export-filename="C:\Users\heardp\Desktop\favicon.png"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96">
         <path
