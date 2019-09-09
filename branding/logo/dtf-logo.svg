@@ -89,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="2019.1558"
-     inkscape:cy="3265.2224"
+     inkscape:zoom="0.35"
+     inkscape:cx="1624.2915"
+     inkscape:cy="2924.4035"
      inkscape:document-units="mm"
      inkscape:current-layer="g1630"
      showgrid="false"
@@ -99,7 +99,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="in"
@@ -125,19 +125,14 @@
        id="guide963"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="460.37501,828.52382"
-       orientation="1,0"
-       id="guide1826"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="497.41667,545.79763"
-       orientation="1,0"
-       id="guide1864"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="539.75001,571.50001"
        orientation="0,1"
        id="guide1866"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="650.87501,537.48215"
+       orientation="1,0"
+       id="guide1235"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -1141,7 +1136,8 @@
        inkscape:groupmode="layer"
        id="layer9"
        inkscape:label="checkmark isolated"
-       transform="translate(0,-152.4)">
+       transform="translate(0,-152.4)"
+       style="display:inline">
       <g
          inkscape:label="logo"
          id="g1630"
@@ -1149,8 +1145,8 @@
          style="display:inline">
         <g
            id="g1651"
-           transform="translate(394.33796,-145.66451)"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           transform="translate(289.5629,-145.66451)"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-checkmark.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96">
           <path
@@ -1186,6 +1182,54 @@
     </g>
     <g
        transform="translate(0,-152.4)"
+       inkscape:label="checkmark isolated mono"
+       id="g1157"
+       inkscape:groupmode="layer"
+       style="display:inline">
+      <g
+         style="display:inline"
+         inkscape:groupmode="layer"
+         id="g1155"
+         inkscape:label="logo">
+        <g
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-checkmark-mono.png"
+           transform="translate(547.79639,-145.66451)"
+           id="g1153">
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v1b.png"
+             sodipodi:nodetypes="ccccccccccccccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path1145"
+             d="m 126.19143,767.98386 c 0.0331,-0.033 0.0662,-0.067 0.0992,-0.098 l 0.0533,-0.053 0.001,-10e-4 c 1.79736,-1.9604 1.73259,-4.9881 -0.14678,-6.8698 -1.88469,-1.8802 -4.91636,-1.941 -6.87492,-0.1379 l -0.0111,-0.011 -0.14439,0.1445 -8.6e-4,8e-4 -24.217369,24.2174 -7.77e-4,8e-4 -7.87e-4,7e-4 -0.02774,0.028 h 1.1e-5 c -1.913096,1.9444 -1.900346,5.0679 0.02774,6.9972 1.929426,1.9279 5.052322,1.9402 6.996812,0.028 v 0 l 0.0288,-0.029 2.1e-4,-10e-5 2.9e-4,-2e-4 24.14854,-24.1487 c 0.0231,-0.024 0.0462,-0.046 0.0697,-0.07 z"
+             style="opacity:1;fill:#000000;fill-opacity:0.14418604;stroke:none;stroke-width:0.08624015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v1b.png"
+             sodipodi:nodetypes="ccccccccccccccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path1147"
+             d="m 80.079636,777.38226 c -0.03218,-0.034 -0.06436,-0.068 -0.09521,-0.1032 l -0.05349,-0.053 7.89e-4,-8e-4 c -1.797229,-1.9603 -1.732568,-4.9881 0.146832,-6.8697 1.882463,-1.8824 4.916287,-1.9411 6.874896,-0.1379 l 0.0089,-0.011 0.144369,0.1444 h 1.1e-5 l 14.822067,14.8221 2e-5,-1e-4 v 0 l 0.0274,0.028 -7.9e-4,8e-4 c 1.91285,1.9448 1.90035,5.068 -0.0278,6.9972 -1.929482,1.9279 -5.052272,1.9402 -6.996833,0.028 l -7.76e-4,7e-4 -0.02896,-0.029 -2.44e-4,-3e-4 -2.33e-4,-2e-4 -14.749722,-14.756 c -0.02431,-0.022 -0.0486,-0.044 -0.0738,-0.066 z"
+             style="opacity:1;fill:#000000;fill-opacity:0.14418604;stroke:none;stroke-width:0.08624015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="opacity:1;fill:#c1c1c4;fill-opacity:1;stroke:none;stroke-width:15.00642967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 122.81578,769.25516 a 4.8759071,4.8759071 0 0 1 -4.90857,-4.8431 4.8759071,4.8759071 0 0 1 4.84285,-4.9088 4.8759071,4.8759071 0 0 1 4.90856,4.8431 4.8759071,4.8759071 0 0 1 -4.84284,4.9088 z"
+             id="path1149"
+             inkscape:connector-curvature="0" />
+          <path
+             style="display:inline;opacity:1;fill:#c1c1c4;fill-opacity:1;stroke:none;stroke-width:15.2484684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 83.545118,778.75476 a 4.9545509,4.9545509 0 0 1 -4.987706,-4.921 4.9545509,4.9545509 0 0 1 4.921502,-4.9875 4.9545509,4.9545509 0 0 1 4.987705,4.9212 4.9545509,4.9545509 0 0 1 -4.92149,4.9873 z"
+             id="path1151"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(0,-152.4)"
        style="display:inline"
        inkscape:groupmode="layer"
        id="g1189"
@@ -1199,7 +1243,7 @@
            d="m 103.5052,666.94294 a 38.656408,38.656408 0 0 0 38.65653,-38.6564 38.656408,38.656408 0 0 0 -38.65651,-38.6564 38.656408,38.656408 0 0 0 -38.656309,38.6564 38.656408,38.656408 0 0 0 38.656289,38.6564 z"
            id="path1175"
            inkscape:connector-curvature="0"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-mono-no-text.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
@@ -1208,7 +1252,7 @@
            id="path1177"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccccccccccccccc"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-mono-no-text.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
@@ -1217,7 +1261,7 @@
            id="path1179"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccccccccccccccc"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-mono-no-text.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
@@ -1225,7 +1269,7 @@
            id="path1181"
            d="m 122.81578,623.52213 a 4.8759071,4.8759071 0 0 1 -4.90857,-4.8431 4.8759071,4.8759071 0 0 1 4.84285,-4.9088 4.8759071,4.8759071 0 0 1 4.90856,4.8431 4.8759071,4.8759071 0 0 1 -4.84284,4.9088 z"
            style="opacity:1;fill:#f6ffff;fill-opacity:1;stroke:none;stroke-width:15.00642967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-mono-no-text.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
@@ -1233,7 +1277,7 @@
            id="path1183"
            d="m 83.545118,633.02173 a 4.9545509,4.9545509 0 0 1 -4.987706,-4.921 4.9545509,4.9545509 0 0 1 4.921502,-4.9875 4.9545509,4.9545509 0 0 1 4.987705,4.9212 4.9545509,4.9545509 0 0 1 -4.92149,4.9873 z"
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15.2484684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-mono-no-text.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
       </g>
@@ -1253,7 +1297,7 @@
         <g
            id="g1576"
            transform="translate(0,257.63171)"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-horizontal.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96">
           <flowRoot
@@ -1299,7 +1343,7 @@
         <path
            inkscape:export-ydpi="96"
            inkscape:export-xdpi="96"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-horizontal.png"
            inkscape:connector-curvature="0"
            id="path1211"
            d="m 103.5052,466.71534 a 38.656408,38.656408 0 0 0 38.65653,-38.6564 38.656408,38.656408 0 0 0 -38.65651,-38.65625 38.656408,38.656408 0 0 0 -38.656309,38.65625 38.656408,38.656408 0 0 0 38.656289,38.6564 z"
@@ -1307,7 +1351,7 @@
         <g
            inkscape:export-ydpi="96"
            inkscape:export-xdpi="96"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-horizontal.png"
            transform="translate(-1.5928724,-600.03484)"
            id="g1221">
           <path
@@ -1348,54 +1392,54 @@
        inkscape:label="checkmark round solid (vert)"
        transform="translate(0,-152.4)">
       <g
-         style="display:inline"
-         transform="translate(0,922.2)"
+         inkscape:groupmode="layer"
+         id="g1717"
          inkscape:label="text"
-         id="g1844"
-         inkscape:groupmode="layer">
+         transform="translate(0,922.2)"
+         style="display:inline">
         <flowRoot
-           inkscape:export-ydpi="96"
+           xml:space="preserve"
+           id="flowRoot1705"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.2308031,0,0,0.2308031,297.70696,-550.19376)"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-vertical.png"
            inkscape:export-xdpi="96"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
-           transform="matrix(0.2308031,0,0,0.2308031,402.48202,-745.22948)"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           id="flowRoot1834"
-           xml:space="preserve"><flowRegion
-             style="line-height:1"
-             id="flowRegion1830"><rect
-               style="line-height:1"
-               y="461.09113"
-               x="35.714287"
-               height="108.57144"
+           inkscape:export-ydpi="96"><flowRegion
+             id="flowRegion1701"
+             style="line-height:1"><rect
+               id="rect1699"
                width="751.42859"
-               id="rect1828" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic'"
-             id="flowPara1832">SSC CIO</flowPara></flowRoot>        <g
-           id="g1842"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.5786443,0,0,0.5786443,256.19419,-889.8659)"
+               height="108.57144"
+               x="35.714287"
+               y="461.09113"
+               style="line-height:1" /></flowRegion><flowPara
+             id="flowPara1703"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic'">SSC CIO</flowPara></flowRoot>        <g
            aria-label="DTF"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           transform="matrix(0.5786443,0,0,0.5786443,151.41913,-694.83018)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1713"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-vertical.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96">
           <path
-             sodipodi:nodetypes="csccsccssccccscsscsc"
-             inkscape:connector-curvature="0"
-             id="path1836"
+             d="m 357.7985,465.91623 h 12.10417 c 7.80209,0 11.43641,0.97222 15.22808,2.91666 3.79166,1.92014 6.91492,5.05556 9.36979,9.40625 2.45486,4.35069 3.68229,9.43056 3.68229,15.23959 0,4.13194 -0.69271,7.93576 -2.07813,11.41145 -1.36111,3.45139 -3.25694,6.31945 -5.6875,8.60417 -2.40625,2.28472 -5.01909,3.86458 -7.83854,4.73958 -2.81944,0.875 -5.54231,1.3125 -12.4937,1.3125 H 357.7985 Z m 10.17188,9.84375 v 33.79687 h 4.73958 c 4.66667,0 5.88259,-0.53472 7.97287,-1.60417 2.11458,-1.06944 3.84027,-2.86805 5.17708,-5.39583 1.33681,-2.52778 2.00521,-5.63889 2.00521,-9.33333 0,-5.6875 -1.59201,-10.09896 -4.77604,-13.23438 -2.86805,-2.81944 -5.31141,-4.22916 -11.65516,-4.22916 z"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-             d="m 357.7985,465.91623 h 12.10417 c 7.80209,0 11.43641,0.97222 15.22808,2.91666 3.79166,1.92014 6.91492,5.05556 9.36979,9.40625 2.45486,4.35069 3.68229,9.43056 3.68229,15.23959 0,4.13194 -0.69271,7.93576 -2.07813,11.41145 -1.36111,3.45139 -3.25694,6.31945 -5.6875,8.60417 -2.40625,2.28472 -5.01909,3.86458 -7.83854,4.73958 -2.81944,0.875 -5.54231,1.3125 -12.4937,1.3125 H 357.7985 Z m 10.17188,9.84375 v 33.79687 h 4.73958 c 4.66667,0 5.88259,-0.53472 7.97287,-1.60417 2.11458,-1.06944 3.84027,-2.86805 5.17708,-5.39583 1.33681,-2.52778 2.00521,-5.63889 2.00521,-9.33333 0,-5.6875 -1.59201,-10.09896 -4.77604,-13.23438 -2.86805,-2.81944 -5.31141,-4.22916 -11.65516,-4.22916 z" />
+             id="path1765"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="csccsccssccccscsscsc" />
           <path
-             sodipodi:nodetypes="ccccccccc"
-             inkscape:connector-curvature="0"
-             id="path1838"
+             d="m 399.7838,465.91623 h 37.56998 v 10.0625 h -13.37509 v 43.5677 h -10.35416 v -43.5677 H 399.7838 Z"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-             d="m 399.7838,465.91623 h 37.56998 v 10.0625 h -13.37509 v 43.5677 h -10.35416 v -43.5677 H 399.7838 Z" />
+             id="path1767"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccc" />
           <path
-             sodipodi:nodetypes="ccccccccccc"
-             inkscape:connector-curvature="0"
-             id="path1840"
+             d="m 443.05791,465.91623 h 31.66053 v 9.95312 h -21.56157 v 9.73438 h 21.56157 v 9.80729 h -21.56157 v 24.13541 h -10.09896 z"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-             d="m 443.05791,465.91623 h 31.66053 v 9.95312 h -21.56157 v 9.73438 h 21.56157 v 9.80729 h -21.56157 v 24.13541 h -10.09896 z" />
+             id="path1769"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccc" />
         </g>
       </g>
       <g
@@ -1404,16 +1448,16 @@
          inkscape:label="logo">
         <path
            style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8.14299965;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 497.3564,466.71534 a 38.656408,38.656408 0 0 0 38.65653,-38.6564 38.656408,38.656408 0 0 0 -38.65651,-38.65625 38.656408,38.656408 0 0 0 -38.65631,38.65625 38.656408,38.656408 0 0 0 38.65629,38.6564 z"
+           d="m 392.58134,466.71534 a 38.656408,38.656408 0 0 0 38.65653,-38.6564 38.656408,38.656408 0 0 0 -38.65651,-38.65625 38.656408,38.656408 0 0 0 -38.65631,38.65625 38.656408,38.656408 0 0 0 38.65629,38.6564 z"
            id="path1810"
            inkscape:connector-curvature="0"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-vertical.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <g
            id="g1820"
-           transform="translate(392.25833,-600.03484)"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           transform="translate(287.48327,-600.03484)"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-vertical.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96">
           <path
@@ -1449,6 +1493,61 @@
     </g>
     <g
        transform="translate(0,-152.4)"
+       inkscape:label="checkmark round solid (no text)"
+       id="g1269"
+       inkscape:groupmode="layer"
+       style="display:inline">
+      <g
+         inkscape:label="logo"
+         id="g1267"
+         inkscape:groupmode="layer">
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\heardp\Development\DTF\reading-material\branding\logo\exports\dtf-logo-no-text.png"
+           inkscape:connector-curvature="0"
+           id="path1255"
+           d="m 650.81483,466.71534 a 38.656408,38.656408 0 0 0 38.65653,-38.6564 38.656408,38.656408 0 0 0 -38.65651,-38.65625 38.656408,38.656408 0 0 0 -38.65631,38.65625 38.656408,38.656408 0 0 0 38.65629,38.6564 z"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8.14299965;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\heardp\Development\DTF\reading-material\branding\logo\exports\dtf-logo-no-text.png"
+           transform="translate(545.71676,-600.03484)"
+           id="g1265">
+          <path
+             style="opacity:1;fill:#7d32c1;fill-opacity:0.87441861;stroke:none;stroke-width:0.08624015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 127.7843,1022.0592 c 0.0331,-0.033 0.0662,-0.067 0.0992,-0.098 l 0.0533,-0.053 10e-4,-10e-4 c 1.79736,-1.9604 1.73259,-4.9881 -0.14678,-6.8698 -1.88469,-1.8802 -4.91636,-1.941 -6.87492,-0.1379 l -0.0111,-0.011 -0.14439,0.1445 -8.6e-4,8e-4 -24.217367,24.2174 -7.77e-4,8e-4 -7.87e-4,7e-4 -0.02774,0.028 h 1.1e-5 c -1.913096,1.9444 -1.900346,5.0679 0.02774,6.9972 1.929426,1.9279 5.05232,1.9402 6.99681,0.028 v 0 l 0.0288,-0.029 2.1e-4,-10e-5 2.9e-4,-2e-4 24.14854,-24.1487 c 0.0231,-0.024 0.0462,-0.046 0.0697,-0.07 z"
+             id="path1257"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccccccccccccccc"
+             inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v1b.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             style="opacity:1;fill:#2585c6;fill-opacity:0.74883722;stroke:none;stroke-width:0.08624015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 81.672508,1031.4576 c -0.03218,-0.034 -0.06436,-0.068 -0.09521,-0.1032 l -0.05349,-0.053 7.89e-4,-8e-4 c -1.797229,-1.9603 -1.732568,-4.9881 0.146832,-6.8697 1.882463,-1.8824 4.916287,-1.9411 6.874896,-0.1379 l 0.0089,-0.011 0.144369,0.1444 h 1.1e-5 l 14.822065,14.8221 2e-5,-10e-5 v 0 l 0.0274,0.028 -7.9e-4,8e-4 c 1.91285,1.9448 1.90035,5.068 -0.0278,6.9972 -1.92948,1.9279 -5.05227,1.9402 -6.996831,0.028 l -7.76e-4,7e-4 -0.02896,-0.029 -2.44e-4,-3e-4 -2.33e-4,-2e-4 -14.749722,-14.756 c -0.02431,-0.022 -0.0486,-0.044 -0.0738,-0.066 z"
+             id="path1259"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccccccccccccccccccc"
+             inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v1b.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1261"
+             d="m 124.40865,1023.3305 a 4.8759071,4.8759071 0 0 1 -4.90857,-4.8431 4.8759071,4.8759071 0 0 1 4.84285,-4.9088 4.8759071,4.8759071 0 0 1 4.90856,4.8431 4.8759071,4.8759071 0 0 1 -4.84284,4.9088 z"
+             style="opacity:1;fill:#cc2be6;fill-opacity:0.45116278;stroke:none;stroke-width:15.00642967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1263"
+             d="m 85.13799,1032.8301 a 4.9545509,4.9545509 0 0 1 -4.987706,-4.921 4.9545509,4.9545509 0 0 1 4.921502,-4.9875 4.9545509,4.9545509 0 0 1 4.987705,4.9212 4.9545509,4.9545509 0 0 1 -4.92149,4.9873 z"
+             style="display:inline;opacity:1;fill:#64cde8;fill-opacity:0.42790701;stroke:none;stroke-width:15.2484684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(0,-152.4)"
        style="display:inline"
        inkscape:groupmode="layer"
        id="g1281"
@@ -1462,7 +1561,7 @@
         <g
            inkscape:export-ydpi="96"
            inkscape:export-xdpi="96"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-horizontal.png"
            transform="translate(0,64.128569)"
            id="g1606">
           <flowRoot
@@ -1512,7 +1611,7 @@
            id="path1269"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccccccccccccccc"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-horizontal.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
@@ -1521,7 +1620,7 @@
            id="path1271"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccccccccccccccccc"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-horizontal.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
@@ -1529,7 +1628,7 @@
            id="path1273"
            d="m 122.81578,229.90525 a 4.8759071,4.8759071 0 0 1 -4.90857,-4.8431 4.8759071,4.8759071 0 0 1 4.84285,-4.9088 4.8759071,4.8759071 0 0 1 4.90856,4.8431 4.8759071,4.8759071 0 0 1 -4.84284,4.9088 z"
            style="opacity:1;fill:#7e2bc5;fill-opacity:1;stroke:none;stroke-width:15.00642967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-horizontal.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
@@ -1537,13 +1636,13 @@
            id="path1275"
            d="m 83.545118,239.40485 a 4.9545509,4.9545509 0 0 1 -4.987706,-4.921 4.9545509,4.9545509 0 0 1 4.921502,-4.9875 4.9545509,4.9545509 0 0 1 4.987705,4.9212 4.9545509,4.9545509 0 0 1 -4.92149,4.9873 z"
            style="display:inline;opacity:1;fill:#64cde8;fill-opacity:0.66976743;stroke:none;stroke-width:15.2484684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-horizontal.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
            inkscape:export-ydpi="96"
            inkscape:export-xdpi="96"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-horizontal.png"
            inkscape:connector-curvature="0"
            id="path1620"
            d="M 103.5052,273.32534 A 38.656408,38.656408 0 0 0 142.16173,234.6696 38.656408,38.656408 0 0 0 103.50522,196.01332 38.656408,38.656408 0 0 0 64.848911,234.6696 38.656408,38.656408 0 0 0 103.5052,273.32534 Z"
@@ -1557,54 +1656,54 @@
        style="display:inline"
        transform="translate(0,-152.4)">
       <g
-         inkscape:groupmode="layer"
-         id="g1717"
-         inkscape:label="text"
+         style="display:inline"
          transform="translate(0,922.2)"
-         style="display:inline">
+         inkscape:label="text"
+         id="g1844"
+         inkscape:groupmode="layer">
         <flowRoot
-           xml:space="preserve"
-           id="flowRoot1705"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           transform="matrix(0.2308031,0,0,0.2308031,402.48202,-550.19376)"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-ydpi="96"
            inkscape:export-xdpi="96"
-           inkscape:export-ydpi="96"><flowRegion
-             id="flowRegion1701"
-             style="line-height:1"><rect
-               id="rect1699"
-               width="751.42859"
-               height="108.57144"
-               x="35.714287"
-               y="461.09113"
-               style="line-height:1" /></flowRegion><flowPara
-             id="flowPara1703"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic'">SSC CIO</flowPara></flowRoot>        <g
-           aria-label="DTF"
-           transform="matrix(0.5786443,0,0,0.5786443,256.19419,-694.83018)"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-vertical.png"
+           transform="matrix(0.2308031,0,0,0.2308031,297.70696,-745.22948)"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-           id="flowRoot1713"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           id="flowRoot1834"
+           xml:space="preserve"><flowRegion
+             style="line-height:1"
+             id="flowRegion1830"><rect
+               style="line-height:1"
+               y="461.09113"
+               x="35.714287"
+               height="108.57144"
+               width="751.42859"
+               id="rect1828" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic'"
+             id="flowPara1832">SSC CIO</flowPara></flowRoot>        <g
+           id="g1842"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.5786443,0,0,0.5786443,151.41913,-889.8659)"
+           aria-label="DTF"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-vertical.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96">
           <path
-             d="m 357.7985,465.91623 h 12.10417 c 7.80209,0 11.43641,0.97222 15.22808,2.91666 3.79166,1.92014 6.91492,5.05556 9.36979,9.40625 2.45486,4.35069 3.68229,9.43056 3.68229,15.23959 0,4.13194 -0.69271,7.93576 -2.07813,11.41145 -1.36111,3.45139 -3.25694,6.31945 -5.6875,8.60417 -2.40625,2.28472 -5.01909,3.86458 -7.83854,4.73958 -2.81944,0.875 -5.54231,1.3125 -12.4937,1.3125 H 357.7985 Z m 10.17188,9.84375 v 33.79687 h 4.73958 c 4.66667,0 5.88259,-0.53472 7.97287,-1.60417 2.11458,-1.06944 3.84027,-2.86805 5.17708,-5.39583 1.33681,-2.52778 2.00521,-5.63889 2.00521,-9.33333 0,-5.6875 -1.59201,-10.09896 -4.77604,-13.23438 -2.86805,-2.81944 -5.31141,-4.22916 -11.65516,-4.22916 z"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-             id="path1765"
+             sodipodi:nodetypes="csccsccssccccscsscsc"
              inkscape:connector-curvature="0"
-             sodipodi:nodetypes="csccsccssccccscsscsc" />
+             id="path1836"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
+             d="m 357.7985,465.91623 h 12.10417 c 7.80209,0 11.43641,0.97222 15.22808,2.91666 3.79166,1.92014 6.91492,5.05556 9.36979,9.40625 2.45486,4.35069 3.68229,9.43056 3.68229,15.23959 0,4.13194 -0.69271,7.93576 -2.07813,11.41145 -1.36111,3.45139 -3.25694,6.31945 -5.6875,8.60417 -2.40625,2.28472 -5.01909,3.86458 -7.83854,4.73958 -2.81944,0.875 -5.54231,1.3125 -12.4937,1.3125 H 357.7985 Z m 10.17188,9.84375 v 33.79687 h 4.73958 c 4.66667,0 5.88259,-0.53472 7.97287,-1.60417 2.11458,-1.06944 3.84027,-2.86805 5.17708,-5.39583 1.33681,-2.52778 2.00521,-5.63889 2.00521,-9.33333 0,-5.6875 -1.59201,-10.09896 -4.77604,-13.23438 -2.86805,-2.81944 -5.31141,-4.22916 -11.65516,-4.22916 z" />
           <path
-             d="m 399.7838,465.91623 h 37.56998 v 10.0625 h -13.37509 v 43.5677 h -10.35416 v -43.5677 H 399.7838 Z"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-             id="path1767"
+             sodipodi:nodetypes="ccccccccc"
              inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccccc" />
+             id="path1838"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
+             d="m 399.7838,465.91623 h 37.56998 v 10.0625 h -13.37509 v 43.5677 h -10.35416 v -43.5677 H 399.7838 Z" />
           <path
-             d="m 443.05791,465.91623 h 31.66053 v 9.95312 h -21.56157 v 9.73438 h 21.56157 v 9.80729 h -21.56157 v 24.13541 h -10.09896 z"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-             id="path1769"
+             sodipodi:nodetypes="ccccccccccc"
              inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccccccc" />
+             id="path1840"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.66666412px;line-height:1;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
+             d="m 443.05791,465.91623 h 31.66053 v 9.95312 h -21.56157 v 9.73438 h 21.56157 v 9.80729 h -21.56157 v 24.13541 h -10.09896 z" />
         </g>
       </g>
       <g
@@ -1615,45 +1714,100 @@
         <path
            inkscape:export-ydpi="96"
            inkscape:export-xdpi="96"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-vertical.png"
            sodipodi:nodetypes="ccccccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path1719"
-           d="m 520.04263,228.63395 c 0.0331,-0.033 0.0662,-0.067 0.0992,-0.098 l 0.0533,-0.053 0.001,-10e-4 c 1.79736,-1.9604 1.73259,-4.9881 -0.14678,-6.8698 -1.88469,-1.8802 -4.91636,-1.941 -6.87492,-0.1379 l -0.0111,-0.011 -0.14439,0.1445 -8.6e-4,8e-4 -24.21737,24.2174 -7.8e-4,8e-4 -7.8e-4,7e-4 -0.0277,0.028 h 10e-6 c -1.9131,1.9444 -1.90035,5.0679 0.0277,6.9972 1.92942,1.9279 5.05232,1.9402 6.99681,0.028 v 0 l 0.0288,-0.029 2.1e-4,-1e-4 2.9e-4,-2e-4 24.14854,-24.1487 c 0.0231,-0.024 0.0462,-0.046 0.0697,-0.07 z"
+           d="m 415.26757,228.63395 c 0.0331,-0.033 0.0662,-0.067 0.0992,-0.098 l 0.0533,-0.053 10e-4,-10e-4 c 1.79736,-1.9604 1.73259,-4.9881 -0.14678,-6.8698 -1.88469,-1.8802 -4.91636,-1.941 -6.87492,-0.1379 l -0.0111,-0.011 -0.14439,0.1445 -8.6e-4,8e-4 -24.21737,24.2174 -7.8e-4,8e-4 -7.8e-4,7e-4 -0.0277,0.028 h 10e-6 c -1.9131,1.9444 -1.90035,5.0679 0.0277,6.9972 1.92942,1.9279 5.05232,1.9402 6.99681,0.028 v 0 l 0.0288,-0.029 2.1e-4,-1e-4 2.9e-4,-2e-4 24.14854,-24.1487 c 0.0231,-0.024 0.0462,-0.046 0.0697,-0.07 z"
            style="opacity:1;fill:#6d2ba9;fill-opacity:0.80930283;stroke:none;stroke-width:0.08624015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            inkscape:export-ydpi="96"
            inkscape:export-xdpi="96"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-vertical.png"
            sodipodi:nodetypes="ccccccccccccccccccccccc"
            inkscape:connector-curvature="0"
            id="path1721"
-           d="m 473.93083,238.03235 c -0.0322,-0.034 -0.0644,-0.068 -0.0952,-0.1032 l -0.0535,-0.053 7.9e-4,-8e-4 c -1.79723,-1.9603 -1.73256,-4.9881 0.14684,-6.8697 1.88246,-1.8824 4.91628,-1.9411 6.87489,-0.1379 l 0.009,-0.011 0.14437,0.1444 h 1e-5 l 14.82207,14.8221 2e-5,-1e-4 v 0 l 0.0274,0.028 -7.9e-4,8e-4 c 1.91285,1.9448 1.90035,5.068 -0.0278,6.9972 -1.92948,1.9279 -5.05227,1.9402 -6.99683,0.028 l -7.8e-4,7e-4 -0.029,-0.029 -2.4e-4,-3e-4 -2.4e-4,-2e-4 -14.74972,-14.756 c -0.0243,-0.022 -0.0486,-0.044 -0.0738,-0.066 z"
+           d="m 369.15577,238.03235 c -0.0322,-0.034 -0.0644,-0.068 -0.0952,-0.1032 l -0.0535,-0.053 7.9e-4,-8e-4 c -1.79723,-1.9603 -1.73256,-4.9881 0.14684,-6.8697 1.88246,-1.8824 4.91628,-1.9411 6.87489,-0.1379 l 0.009,-0.011 0.14437,0.1444 h 1e-5 l 14.82207,14.8221 2e-5,-1e-4 v 0 l 0.0274,0.028 -7.9e-4,8e-4 c 1.91285,1.9448 1.90035,5.068 -0.0278,6.9972 -1.92948,1.9279 -5.05227,1.9402 -6.99683,0.028 l -7.8e-4,7e-4 -0.029,-0.029 -2.4e-4,-3e-4 -2.4e-4,-2e-4 -14.74972,-14.756 c -0.0243,-0.022 -0.0486,-0.044 -0.0738,-0.066 z"
            style="opacity:0.769;fill:#1b63cb;fill-opacity:1;stroke:none;stroke-width:0.08624015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            style="opacity:1;fill:#7e2bc5;fill-opacity:1;stroke:none;stroke-width:15.00642967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 516.66698,229.90525 a 4.8759071,4.8759071 0 0 1 -4.90857,-4.8431 4.8759071,4.8759071 0 0 1 4.84285,-4.9088 4.8759071,4.8759071 0 0 1 4.90856,4.8431 4.8759071,4.8759071 0 0 1 -4.84284,4.9088 z"
+           d="m 411.89192,229.90525 a 4.8759071,4.8759071 0 0 1 -4.90857,-4.8431 4.8759071,4.8759071 0 0 1 4.84285,-4.9088 4.8759071,4.8759071 0 0 1 4.90856,4.8431 4.8759071,4.8759071 0 0 1 -4.84284,4.9088 z"
            id="path1723"
            inkscape:connector-curvature="0"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-vertical.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
            style="display:inline;opacity:1;fill:#64cde8;fill-opacity:0.66976743;stroke:none;stroke-width:15.2484684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 477.39632,239.40485 a 4.9545509,4.9545509 0 0 1 -4.98771,-4.921 4.9545509,4.9545509 0 0 1 4.9215,-4.9875 4.9545509,4.9545509 0 0 1 4.98771,4.9212 4.9545509,4.9545509 0 0 1 -4.92149,4.9873 z"
+           d="m 372.62126,239.40485 a 4.9545509,4.9545509 0 0 1 -4.98771,-4.921 4.9545509,4.9545509 0 0 1 4.9215,-4.9875 4.9545509,4.9545509 0 0 1 4.98771,4.9212 4.9545509,4.9545509 0 0 1 -4.92149,4.9873 z"
            id="path1725"
            inkscape:connector-curvature="0"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-vertical.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
         <path
            style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#27229b;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 497.3564,273.32534 a 38.656408,38.656408 0 0 0 38.65653,-38.65574 38.656408,38.656408 0 0 0 -38.65651,-38.65628 38.656408,38.656408 0 0 0 -38.65631,38.65628 38.656408,38.656408 0 0 0 38.65629,38.65574 z"
+           d="m 392.58134,273.32534 a 38.656408,38.656408 0 0 0 38.65653,-38.65574 38.656408,38.656408 0 0 0 -38.65651,-38.65628 38.656408,38.656408 0 0 0 -38.65631,38.65628 38.656408,38.656408 0 0 0 38.65629,38.65574 z"
            id="path1727"
            inkscape:connector-curvature="0"
-           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo_v2.png"
+           inkscape:export-filename="C:\Users\heardp\Desktop\dtf-logo-outline-vertical.png"
            inkscape:export-xdpi="96"
            inkscape:export-ydpi="96" />
+      </g>
+    </g>
+    <g
+       transform="translate(0,-152.4)"
+       style="display:inline"
+       inkscape:groupmode="layer"
+       id="g1233"
+       inkscape:label="checkmark round outline  (no text)">
+      <g
+         inkscape:groupmode="layer"
+         id="g1231"
+         inkscape:label="logo"
+         style="display:inline">
+        <path
+           style="opacity:1;fill:#6d2ba9;fill-opacity:0.80930283;stroke:none;stroke-width:0.08624015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 673.50106,228.63395 c 0.0331,-0.033 0.0662,-0.067 0.0992,-0.098 l 0.0533,-0.053 10e-4,-10e-4 c 1.79736,-1.9604 1.73259,-4.9881 -0.14678,-6.8698 -1.88469,-1.8802 -4.91636,-1.941 -6.87492,-0.1379 l -0.0111,-0.011 -0.14439,0.1445 -8.6e-4,8e-4 -24.21737,24.2174 -7.8e-4,8e-4 -7.8e-4,7e-4 -0.0277,0.028 h 10e-6 c -1.9131,1.9444 -1.90035,5.0679 0.0277,6.9972 1.92942,1.9279 5.05232,1.9402 6.99681,0.028 v 0 l 0.0288,-0.029 2.1e-4,-1e-4 2.9e-4,-2e-4 24.14854,-24.1487 c 0.0231,-0.024 0.0462,-0.046 0.0697,-0.07 z"
+           id="path1221"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccc"
+           inkscape:export-filename="C:\Users\heardp\Development\DTF\reading-material\branding\logo\exports\dtf-logo-no-text.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           style="opacity:0.769;fill:#1b63cb;fill-opacity:1;stroke:none;stroke-width:0.08624015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 627.38926,238.03235 c -0.0322,-0.034 -0.0644,-0.068 -0.0952,-0.1032 l -0.0535,-0.053 7.9e-4,-8e-4 c -1.79723,-1.9603 -1.73256,-4.9881 0.14684,-6.8697 1.88246,-1.8824 4.91628,-1.9411 6.87489,-0.1379 l 0.009,-0.011 0.14437,0.1444 h 10e-6 l 14.82207,14.8221 2e-5,-1e-4 v 0 l 0.0274,0.028 -7.9e-4,8e-4 c 1.91285,1.9448 1.90035,5.068 -0.0278,6.9972 -1.92948,1.9279 -5.05227,1.9402 -6.99683,0.028 l -7.8e-4,7e-4 -0.029,-0.029 -2.4e-4,-3e-4 -2.4e-4,-2e-4 -14.74972,-14.756 c -0.0243,-0.022 -0.0486,-0.044 -0.0738,-0.066 z"
+           id="path1223"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccc"
+           inkscape:export-filename="C:\Users\heardp\Development\DTF\reading-material\branding\logo\exports\dtf-logo-no-text.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\heardp\Development\DTF\reading-material\branding\logo\exports\dtf-logo-no-text.png"
+           inkscape:connector-curvature="0"
+           id="path1225"
+           d="m 670.12541,229.90525 a 4.8759071,4.8759071 0 0 1 -4.90857,-4.8431 4.8759071,4.8759071 0 0 1 4.84285,-4.9088 4.8759071,4.8759071 0 0 1 4.90856,4.8431 4.8759071,4.8759071 0 0 1 -4.84284,4.9088 z"
+           style="opacity:1;fill:#7e2bc5;fill-opacity:1;stroke:none;stroke-width:15.00642967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\heardp\Development\DTF\reading-material\branding\logo\exports\dtf-logo-no-text.png"
+           inkscape:connector-curvature="0"
+           id="path1227"
+           d="m 630.85475,239.40485 a 4.9545509,4.9545509 0 0 1 -4.98771,-4.921 4.9545509,4.9545509 0 0 1 4.9215,-4.9875 4.9545509,4.9545509 0 0 1 4.98771,4.9212 4.9545509,4.9545509 0 0 1 -4.92149,4.9873 z"
+           style="display:inline;opacity:1;fill:#64cde8;fill-opacity:0.66976743;stroke:none;stroke-width:15.2484684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="C:\Users\heardp\Development\DTF\reading-material\branding\logo\exports\dtf-logo-no-text.png"
+           inkscape:connector-curvature="0"
+           id="path1229"
+           d="m 650.81483,273.32534 a 38.656408,38.656408 0 0 0 38.65653,-38.65574 38.656408,38.656408 0 0 0 -38.65651,-38.65628 38.656408,38.656408 0 0 0 -38.65631,38.65628 38.656408,38.656408 0 0 0 38.65629,38.65574 z"
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#27229b;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
   </g>
