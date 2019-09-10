@@ -6,21 +6,14 @@
 		<meta name="description" content="Intro presentation for Pat Heard; A Technical advisor in the CIO at SSC.">
 
 		<title>Pat Heard - Technical advisor @SSC</title>
-
+		
+		<!-- build:css css/reveal.min.css -->
 		<link rel="stylesheet" href="css/reset.css">
-		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/reveal.css">		
+		<!-- /build -->
 		<link rel="stylesheet" href="css/theme/black.css">
 
 		<link rel="icon" type="image/png" href="img/favicon.png" >
-
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
 	</head>
 	<body>
 		<div class="reveal">
@@ -122,8 +115,10 @@
 			</div>
         </div>
 
-
+		<!-- build:js js/reveal.min.js -->
 		<script src="js/reveal.js"></script>
+		<script src="lib/js/promise.js"></script>
+		<!-- /build -->
 
 		<script>
 			// More info about config & dependencies:
@@ -133,9 +128,7 @@
 				hash: true,
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true }
+					{ src: 'plugin/markdown/markdown.js' }
 				]
 			});
 		</script>
