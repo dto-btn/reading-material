@@ -16,7 +16,7 @@
    version="1.1"
    id="svg1277"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="powerpoint-footer.svg">
+   sodipodi:docname="widescreen-footer.svg">
   <defs
      id="defs1271">
     <linearGradient
@@ -27,7 +27,7 @@
          offset="0"
          id="stop2698" />
       <stop
-         style="stop-color:#712282;stop-opacity:1"
+         style="stop-color:#631e75;stop-opacity:1"
          offset="1"
          id="stop2700" />
     </linearGradient>
@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1351.0958"
-     inkscape:cy="-350.51928"
+     inkscape:zoom="0.7"
+     inkscape:cx="775.25858"
+     inkscape:cy="48.681558"
      inkscape:document-units="mm"
      inkscape:current-layer="g3154"
      showgrid="false"
@@ -60,8 +60,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="32"
+     inkscape:window-x="-8"
+     inkscape:window-y="34"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1274">
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,7 +80,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-81.1)"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#33333e;fill-opacity:1;stroke:none;stroke-width:4.99218178;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1824-9"
@@ -89,7 +90,8 @@
        x="0"
        y="274.13245"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\heardp\Desktop\footer-fip.png" />
     <rect
        style="opacity:1;fill:url(#linearGradient2704);fill-opacity:1;stroke:none;stroke-width:1.77329397;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1824"
@@ -98,13 +100,15 @@
        x="0"
        y="294.44492"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\heardp\Desktop\footer-fip.png" />
     <g
        transform="matrix(0.26320956,0,0,0.26320956,15.012793,260.07938)"
        id="layer1-2"
        inkscape:label="Layer 1"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\heardp\Desktop\footer-fip.png">
       <path
          d="m 10.029682,101.37049 c 0,0 0,-15.861164 0,-15.861164 0,0 7.790826,0 7.790826,0 0,0 0,15.861164 0,15.861164 0,0 -7.790826,0 -7.790826,0 z"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3374356"
@@ -196,7 +200,8 @@
        id="layer1-4"
        inkscape:label="Layer 1"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\heardp\Desktop\footer-fip.png">
       <g
          id="g1407"
          inkscape:label="wordmark-bw"
@@ -268,7 +273,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:4;font-family:Helvetica-Normal;-inkscape-font-specification:Helvetica-Normal">Canada</flowPara></flowRoot>    </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-81.1)"
      id="g3255"
      inkscape:groupmode="layer"
@@ -282,7 +287,7 @@
        width="356.80951"
        id="rect3159"
        style="opacity:1;fill:#33333e;fill-opacity:1;stroke:none;stroke-width:4.99218178;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\heardp\Downloads\footer.png" />
+       inkscape:export-filename="C:\Users\heardp\Desktop\footer-blank.png" />
     <rect
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -292,14 +297,15 @@
        width="356.80951"
        id="rect3161"
        style="opacity:1;fill:url(#linearGradient2704);fill-opacity:1;stroke:none;stroke-width:1.77329397;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\heardp\Downloads\footer.png" />
+       inkscape:export-filename="C:\Users\heardp\Desktop\footer-blank.png" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(0,-81.1)"
      id="g3154"
      inkscape:groupmode="layer"
-     inkscape:label="footer (page number)">
+     inkscape:label="footer (page number)"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:url(#linearGradient2704);fill-opacity:1;stroke:none;stroke-width:1.77329397;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 0,294.44492 h 330.21384 l 26.59567,-20.10833 v 23.04138 H 0 Z"
@@ -308,6 +314,6 @@
        sodipodi:nodetypes="cccccc"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
-       inkscape:export-filename="C:\Users\heardp\Downloads\footer.png" />
+       inkscape:export-filename="C:\Users\heardp\Desktop\footer-page-number.png" />
   </g>
 </svg>
