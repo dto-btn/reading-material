@@ -8,8 +8,6 @@ module.exports = grunt => {
 	let root = grunt.option('root') || '.';
 
 	if (!Array.isArray(root)) root = [root];
-
-	grunt.loadNpmTasks('grunt-processhtml');
 	
 	// Project configuration
 	grunt.initConfig({
@@ -160,20 +158,12 @@ module.exports = grunt => {
 			options: {
 				livereload: true
 			}
-		},
-
-		processhtml: {
-			dist: {
-			  files: {
-				'index.min.html': ['index.html']
-			  }
-			}
-		  }		
+		}	
 
 	});
 
 	// Default task
-	grunt.registerTask( 'default', [ 'css', 'js', 'processhtml' ] );
+	grunt.registerTask( 'default', [ 'css', 'js' ] );
 
 	// JS task
 	grunt.registerTask( 'js', [ 'jshint', 'uglify', 'qunit' ] );
