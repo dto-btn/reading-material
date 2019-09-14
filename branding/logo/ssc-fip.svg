@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="373.6937"
-     inkscape:cy="-5.2563041"
+     inkscape:cx="251.87614"
+     inkscape:cy="-5.6696211"
      inkscape:document-units="mm"
      inkscape:current-layer="g897"
      showgrid="false"
@@ -163,7 +163,8 @@
      transform="translate(-10.029682,-85.341962)"
      id="g897"
      inkscape:groupmode="layer"
-     inkscape:label="French">
+     inkscape:label="French"
+     style="display:inline">
     <path
        d="m 10.029682,101.37049 c 0,0 0,-15.861164 0,-15.861164 0,0 7.790826,0 7.790826,0 0,0 0,15.861164 0,15.861164 0,0 -7.790826,0 -7.790826,0 z"
        style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.3374356"
@@ -195,7 +196,7 @@
          id="flowPara853"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:4;font-family:Helvetica-Normal;-inkscape-font-specification:Helvetica-Normal">Canada</flowPara></flowRoot>    <g
        id="g925"
-       transform="translate(80.508929)">
+       transform="translate(85.800599)">
       <flowRoot
          xml:space="preserve"
          id="flowRoot865"
