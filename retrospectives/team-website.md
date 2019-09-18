@@ -69,13 +69,13 @@ Another option would be creating development VMs in the cloud that were unrestri
 * Corporate notebook for GC network and corporate tools.
 * Remote desktop for development and experimentation in the cloud.
 
-:warning: This would potentially slow down user's workflow, based on internet connection speed and performance of the cloud VMs.
+:warning: This could impact UX, depending on internet connection speed and performance of the cloud VMs.
 
 # Appendix
 The following tools were used to build, test and host the website:
 - [CircleCI](https://circleci.com/) for CI/CD pipeline.
-- [Cucumber.js and Puppeteer](https://github.com/patheard/cucumber-puppeteer) for feature and accessibility testing.
 - [CircleCI CLI](https://circleci.com/docs/2.0/local-cli/) for locally testing the CI/CD pipeline during development.
+- [Cucumber.js and Puppeteer](https://github.com/patheard/cucumber-puppeteer) for feature and accessibility testing.
 - [Docker](https://www.docker.com/) to build, test and maintain images used by the CI/CD pipeline.
 - [GitHub](https://github.com/dtf-ein/dtf-ein.github.io) as version control.
 - [GitHub Pages](https://pages.github.com/) to host site.
