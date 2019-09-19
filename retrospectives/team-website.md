@@ -32,6 +32,13 @@ Node was used for the automated accessibility and regression tests.
 - **Personal computer:**
     - 2 minute installer.
 
+## Install Cypress
+Cypress is an automated feature and accessibility test framework.  It was used for local and CI/CD pipeline testing.
+- **Notebook:** 
+    - 1 hour to troubleshoot [blocked Chrome browser extension](https://github.com/cypress-io/cypress/issues/1239).
+- **Personal computer:**
+    - 2 minute installer.
+
 ## Install Vagrant
 Builds VMs using a declarative configuration file (configuration-as-code).  Allowed for consistent creation of a development VM.
 - **Notebook:** 
@@ -75,7 +82,7 @@ Another option would be creating development VMs in the cloud that were unrestri
 The following tools were used to build, test and host the website:
 - [CircleCI](https://circleci.com/) for CI/CD pipeline.
 - [CircleCI CLI](https://circleci.com/docs/2.0/local-cli/) for locally testing the CI/CD pipeline during development.
-- [Cucumber.js and Puppeteer](https://github.com/patheard/cucumber-puppeteer) for feature and accessibility testing.
+- [Cypress](https://www.cypress.io/) for feature and accessibility testing.
 - [Docker](https://www.docker.com/) to build, test and maintain images used by the CI/CD pipeline.
 - [GitHub](https://github.com/dtf-ein/dtf-ein.github.io) as version control.
 - [GitHub Pages](https://pages.github.com/) to host site.
