@@ -1,5 +1,5 @@
-# Project
-The goal was to setup [our team's website](https://dtf-ein.github.io/) where we could publicly share information about our work.
+# Project: build team website
+The goal was to build [our team's website](https://dtf-ein.github.io/) where we could publicly share information about our work.
 
 - [Time](#time)
 - [Development experience](#development-experience)
