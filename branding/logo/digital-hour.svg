@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="700mm"
+   height="200mm"
+   viewBox="0 0 700 200"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -40,7 +40,7 @@
        x2="489.12683"
        y2="589.83575"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,-1.4364579,-1.2042606)" />
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,536.80164,109.16479)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,11 +49,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="473.98969"
-     inkscape:cy="638.50758"
+     inkscape:zoom="0.35"
+     inkscape:cx="991.07313"
+     inkscape:cy="248.7811"
      inkscape:document-units="mm"
-     inkscape:current-layer="g983"
+     inkscape:current-layer="g848"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -63,27 +63,12 @@
      inkscape:window-y="32"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="51.583019,161.96533"
-       orientation="0,1"
-       id="guide885"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="108.7787,213.01381"
-       orientation="1,0"
-       id="guide903"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="76.1622,120.7634"
+       position="99.691533,-26.459683"
        orientation="1,0"
        id="guide913"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="141.1741,115.09375"
-       orientation="1,0"
-       id="guide915"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="124.14669,141.85331"
+       position="181.20874,103.70058"
        orientation="0,1"
        id="guide932"
        inkscape:locked="false" />
@@ -104,12 +89,14 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="circle"
-     style="display:none">
+     style="display:none"
+     transform="translate(0,-97)"
+     sodipodi:insensitive="true">
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.58040237;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path837"
-       cx="108.71191"
-       cy="135.10147"
+       cx="646.95001"
+       cy="245.47052"
        r="45.636269"
        inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-circle.png"
        inkscape:export-xdpi="300"
@@ -119,10 +106,12 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="square"
-     style="display:inline">
+     style="display:none"
+     transform="translate(0,-97)"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 76.247255,102.58794 h 65.011905 v 65.0119 H 76.247255 Z"
+       d="m 614.48535,212.95699 h 65.0119 v 65.0119 h -65.0119 z"
        id="rect906"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-square.png"
@@ -133,10 +122,12 @@
      inkscape:label="1:H gradient"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:none"
+     transform="translate(0,-97)"
+     sodipodi:insensitive="true">
     <path
        style="opacity:1;fill:url(#linearGradient901);fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 91.543583,115.2589 -2.07119,2.0712 v 15.25539 l 2.07119,2.0712 2.071709,-2.0712 V 117.3301 Z m 17.268717,0 -2.07119,2.0712 v 15.25539 l 2.07119,2.0712 2.07171,-2.0712 V 117.3301 Z m 17.1049,0 -2.0712,2.0712 v 15.25539 l 2.0712,2.0712 2.07171,-2.0712 V 117.3301 Z m -25.70024,8.06979 -2.124939,2.12546 2.124939,2.12493 2.12493,-2.12493 z m 11.75352,9.6573 -2.07119,2.07119 2.07119,2.07171 h 10.99403 l 2.07119,-2.07171 -2.07119,-2.07119 z m -20.426897,2.40569 -2.07119,2.07119 v 15.2554 l 2.07119,2.07119 2.071709,-2.07119 v -15.2554 z m 34.373617,0 -2.0712,2.07119 v 15.2554 l 2.0712,2.07119 2.07171,-2.07119 v -15.2554 z m -17.1049,0.046 -2.07119,2.07119 v 15.25539 l 2.07119,2.0712 2.07171,-2.0712 v -15.25539 z m -8.59534,6.90122 -2.124939,2.12494 2.124939,2.12545 2.12493,-2.12545 z"
+       d="m 629.78168,225.62795 -2.07119,2.0712 v 15.25539 l 2.07119,2.0712 2.07171,-2.0712 v -15.25539 z m 17.26871,0 -2.07119,2.0712 v 15.25539 l 2.07119,2.0712 2.07171,-2.0712 v -15.25539 z m 17.1049,0 -2.0712,2.0712 v 15.25539 l 2.0712,2.0712 2.07171,-2.0712 v -15.25539 z m -25.70024,8.06979 -2.12493,2.12546 2.12493,2.12493 2.12493,-2.12493 z m 11.75352,9.6573 -2.07119,2.07119 2.07119,2.07171 h 10.99403 l 2.07119,-2.07171 -2.07119,-2.07119 z m -20.42689,2.40569 -2.07119,2.07119 v 15.2554 l 2.07119,2.07119 2.07171,-2.07119 v -15.2554 z m 34.37361,0 -2.0712,2.07119 v 15.2554 l 2.0712,2.07119 2.07171,-2.07119 v -15.2554 z m -17.1049,0.046 -2.07119,2.07119 v 15.25539 l 2.07119,2.0712 2.07171,-2.0712 v -15.25539 z m -8.59534,6.90122 -2.12493,2.12494 2.12493,2.12545 2.12493,-2.12545 z"
        id="rect920"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
@@ -145,32 +136,131 @@
        inkscape:export-ydpi="300" />
   </g>
   <g
-     style="display:none"
-     inkscape:label="square outline"
-     id="g983"
-     inkscape:groupmode="layer">
-    <path
-       inkscape:connector-curvature="0"
-       id="path981"
-       d="m 76.247255,102.58794 h 65.011905 v 65.0119 H 76.247255 Z"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-outline.png"
+     style="display:inline"
+     inkscape:label="circle"
+     id="g856"
+     inkscape:groupmode="layer"
+     transform="translate(0,-97)">
+    <circle
+       style="opacity:1;fill:#3b1635;fill-opacity:1;stroke:none;stroke-width:4.52040815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path858"
+       cx="99.447601"
+       cy="193.37384"
+       r="59.200199"
+       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-bilingual.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
   </g>
   <g
-     style="display:none"
-     id="g979"
+     style="display:inline"
+     inkscape:label="rounded outline"
+     id="g983"
      inkscape:groupmode="layer"
-     inkscape:label="1:H gradient copy">
-    <path
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path977"
-       d="m 91.543583,115.2589 -2.07119,2.0712 v 15.25539 l 2.07119,2.0712 2.071709,-2.0712 V 117.3301 Z m 17.268717,0 -2.07119,2.0712 v 15.25539 l 2.07119,2.0712 2.07171,-2.0712 V 117.3301 Z m 17.1049,0 -2.0712,2.0712 v 15.25539 l 2.0712,2.0712 2.07171,-2.0712 V 117.3301 Z m -25.70024,8.06979 -2.124939,2.12546 2.124939,2.12493 2.12493,-2.12493 z m 11.75352,9.6573 -2.07119,2.07119 2.07119,2.07171 h 10.99403 l 2.07119,-2.07171 -2.07119,-2.07119 z m -20.426897,2.40569 -2.07119,2.07119 v 15.2554 l 2.07119,2.07119 2.071709,-2.07119 v -15.2554 z m 34.373617,0 -2.0712,2.07119 v 15.2554 l 2.0712,2.07119 2.07171,-2.07119 v -15.2554 z m -17.1049,0.046 -2.07119,2.07119 v 15.25539 l 2.07119,2.0712 2.07171,-2.0712 v -15.25539 z m -8.59534,6.90122 -2.124939,2.12494 2.124939,2.12545 2.12493,-2.12545 z"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-outline.png"
+     transform="translate(0,-97)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.4402864;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect830"
+       width="78.049423"
+       height="51.11042"
+       x="60.494511"
+       y="167.7401"
+       rx="5.8662648"
+       ry="5.5192246"
+       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-bilingual.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path851"
+       cx="99.714874"
+       cy="193.90837"
+       r="54.389347"
+       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-bilingual.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+  <g
+     style="display:inline"
+     id="g979"
+     inkscape:groupmode="layer"
+     inkscape:label="1:H white"
+     transform="translate(0,-97)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.82997465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 86.291853,174.95726 -2.605069,1.93272 -3.934004,14.23552 1.537313,1.93272 2.605585,-1.93272 3.934007,-14.23552 z m 17.268717,0 -2.60507,1.93272 -3.934,14.23552 1.53731,1.93272 2.60559,-1.93272 3.93401,-14.23552 z m 19.22157,0 -2.60507,1.93272 -3.93401,14.23552 1.53731,1.93272 2.60559,-1.93272 3.93401,-14.23552 z m -29.89769,7.53029 -2.672784,1.98337 1.576604,1.98287 2.67327,-1.98287 z m 9.26304,9.01167 -2.60508,1.93273 1.53679,1.93321 h 12.95993 l 2.60508,-1.93321 -1.53679,-1.93273 z m -21.047215,2.24472 -2.605069,1.93272 -3.934005,14.23552 1.537313,1.93272 2.605585,-1.93272 3.934005,-14.23552 z m 36.490285,0 -2.60507,1.93272 -3.93401,14.23552 1.53731,1.93272 2.60559,-1.93272 3.93401,-14.23552 z m -19.23314,0.0429 -2.60559,1.93273 -3.93349,14.23551 1.5368,1.93273 2.6061,-1.93273 3.93349,-14.23551 z m -10.375182,6.44 -2.672751,1.98288 1.577099,1.98335 2.672764,-1.98335 z"
+       id="path848"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-bilingual.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="English"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       transform="translate(0,-96.999999)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:49.35853958px;line-height:0px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.23396349"
+       x="178.72975"
+       y="210.77332"
+       id="text860"
+       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-eng.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan858"
+         x="178.72975"
+         y="210.77332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:start;text-anchor:start;stroke-width:1.23396349">Digital Hour</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="French"
+     id="g873"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       id="text871"
+       y="210.77332"
+       x="178.72975"
+       style="font-style:normal;font-weight:normal;font-size:49.35853958px;line-height:0px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.23396349"
+       xml:space="preserve"
+       transform="translate(0,-96.999999)"
+       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-fra.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:start;text-anchor:start;stroke-width:1.23396349"
+         y="210.77332"
+         x="178.72975"
+         id="tspan869"
+         sodipodi:role="line">Heure numérique</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g848"
+     inkscape:label="Bilingual"
+     style="display:inline">
+    <text
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="C:\Users\heardp\Desktop\digital-hour-bilingual.png"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35.84280777px;line-height:0px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.89607024"
+       x="179.89786"
+       y="87.005569"
+       id="text846"><tspan
+         sodipodi:role="line"
+         x="179.89786"
+         y="87.005569"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:43.17230988px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:start;text-anchor:start;stroke-width:0.89607024"
+         id="tspan850">Digital Hour</tspan><tspan
+         sodipodi:role="line"
+         x="179.89786"
+         y="130.17787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:43.17230988px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:start;text-anchor:start;stroke-width:0.89607024"
+         id="tspan856">Heure numérique</tspan></text>
   </g>
 </svg>
